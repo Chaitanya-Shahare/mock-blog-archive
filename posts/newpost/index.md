@@ -2,6 +2,7 @@
 title: This is a new post
 date: 31/10/2022
 layout: default
+permalink: /:title
 ---
 
 ## This is a test post 
