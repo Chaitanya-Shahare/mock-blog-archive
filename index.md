@@ -2,7 +2,9 @@
 title: How to add social media preview to website
 layout: default
 date: 24/10/2022
+image: https://www.freecodecamp.org/news/content/images/2020/03/open-graph.jpg
 ---
+![Cover image](https://www.freecodecamp.org/news/content/images/2020/03/open-graph.jpg)
 
 You might have come across some websites that when shared on social media platforms like Twitter & WhatsApp shows a preview card of the website which typically includes an image and a short description of the page. This is accomplished with the use of OpenGraph protocol. This is used to add meta data to your websites.
 
