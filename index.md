@@ -81,6 +81,8 @@ You can check if your site's opengrah tags are working on sites like [twitter ca
 
 For detailed documentation refer to https://ogp.me .
 
+[Next post](./posts/newpost.md)
+
 
 
 
