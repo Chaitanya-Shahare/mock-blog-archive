@@ -1,2 +1,3 @@
 # theme: minima
-remote_theme: just-the-docs/just-the-docs
+# remote_theme: just-the-docs/just-the-docs
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
